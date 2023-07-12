@@ -1,0 +1,52 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    
+}
+body{
+    background: #57e193;
+    font-family: fantasy;
+    text-align: center;
+    box-sizing: border-box;
+}
+form{
+    background-color: #1aae0e;
+    margin: 14px 25%;
+    padding: 15px 0px 10% ;
+    box-shadow: 10px 5px 5px black;
+    
+}
+.user-deatials,.user-choice,.user-interst,.user-suggestion{
+    text-align: left;
+    margin-left: 15px;
+    display: block;
+}
+.user-deatials label{
+    display: block;
+    margin: 10px 0px;
+}
+
+.user-interst div{
+    margin: 10px 0px;
+}
+.user-choice div{
+    margin: 10px 0px;
+}
+.user-deatials input{
+    padding: 12px 25%;
+}
+.user-choice #option{
+    padding: 12px 25%;
+}
+div input{
+    padding: 5px 30px;
+}
+.user-suggestion div textarea{
+        margin: 10px 0px;
+}
+.user-deatials select{
+    padding: 5px 20px;
+    margin-bottom: 10px;
+}
+
+
